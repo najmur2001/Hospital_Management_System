@@ -104,7 +104,7 @@
         </div>
 
         <div class="container-fluid p-1 bg-primary text-center text-white">
-            <p>@copyright 2023 | Created By Najmur Hossain Kayal</p>
+             <p>&#169; copyright 2023 | Created By Najmur Hossain Kayal</p>
         </div>
     </section>
 
